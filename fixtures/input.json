@@ -1,0 +1,21 @@
+{
+  "applications": [
+    {
+      "case": "C1",
+      "household": 2,
+      "income": 1800,
+      "at": "2026-01-01"
+    }
+  ],
+  "policy": {
+    "income_limit_per_person": 1000,
+    "benefit": 500
+  },
+  "changes": [
+    {
+      "case": "C1",
+      "income": 2500,
+      "at": "2026-02-01"
+    }
+  ]
+}
