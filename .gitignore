@@ -7,6 +7,11 @@ __pycache__/
 .coverage
 htmlcov/
 
+# Release chain outputs (builds, quarantine, verification workdirs)
+/dist/
+/.verify-work/
+*.egg-info/
+
 # Environment files and local configuration
 .env
 .env.*
